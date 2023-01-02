@@ -1,5 +1,5 @@
 server:
-  port: 8088
+  port: 8089
 
 spring:
   datasource:
@@ -21,7 +21,7 @@ spring:
 
 management:
   server:
-    port: 8098
+    port: 8099
   endpoints:
     web:
       exposure:
